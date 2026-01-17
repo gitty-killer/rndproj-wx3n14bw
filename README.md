@@ -1,4 +1,2 @@
-# rndproj-wx3n14bw
-
-Random shell project for scratch.
-
+# rndproj-wx3n14bw\n\nLanding page for a tiny product concept.\n
+New-FileDef
